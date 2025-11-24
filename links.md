@@ -9,3 +9,7 @@ paper](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-12
 
 [small-area data in the survey 
 package](https://notstatschat.rbind.io/2024/03/09/small-area-estimates-by-smoothing-direct-estimates/)
+
+
+[weights in statistics](https://notstatschat.rbind.io/2020/08/04/weights-in-statistics/)
+
