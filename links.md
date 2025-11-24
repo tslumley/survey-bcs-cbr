@@ -14,3 +14,6 @@ package](https://notstatschat.rbind.io/2024/03/09/small-area-estimates-by-smooth
 [weights in statistics](https://notstatschat.rbind.io/2020/08/04/weights-in-statistics/)
 
 [example of two-phase raking](https://pubmed.ncbi.nlm.nih.gov/35775996/)
+
+[Connections between survey sampling and AIPW and classical regression 
+estimator](https://pubmed.ncbi.nlm.nih.gov/23833390/)
