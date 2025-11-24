@@ -6,3 +6,6 @@
 paper](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-12/issue-2/Statistical-paradises-and-paradoxes-in-big-data-I--Law/10.1214/18-AOAS1161SF.full)
 
 [Big data is not enough -- Nature](https://www.nature.com/articles/s41586-021-04198-4)
+
+[small-area data in the survey 
+package](https://notstatschat.rbind.io/2024/03/09/small-area-estimates-by-smoothing-direct-estimates/)
